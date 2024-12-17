@@ -1,0 +1,2 @@
+# Gesti-n-Concurrente-de-una-Balsa-con-Procesos-y-Sem-foros-
+Este proyecto implementa una solución de sincronización de procesos utilizando memoria compartida y semáforos en C para simular la gestión de una balsa que transporta camiones. El objetivo principal es garantizar un acceso controlado y sincronizado a la balsa para evitar condiciones de carrera y mantener la consistencia de los recursos compartidos.
